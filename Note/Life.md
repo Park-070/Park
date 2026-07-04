@@ -15,3 +15,5 @@ Given English is not my first language, I will write in Chinese. Maybe I will tr
 考完期末 学了相对路径 VSCode的多根工作区(想出这个的有点有点精神不正常) 把以前C++的文件夹放进Park的库了
 `2026.07.02`
 期末考的一坨 但又爽玩了两天Watch_Dogs 没买2 育碧真该重制这个并把克拉拉写活(且活好) 非要靠死人凸显悲剧色彩 想骂人
+`2026.07.04`
+怦然心动第一章看得我好绝望 学校英语组怎么会让我们读这个书
