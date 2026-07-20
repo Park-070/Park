@@ -1,24 +1,28 @@
 {
     "folders": [
         {
-            "name": "C++",
-            "path": "C++"
-        },
-        {
             "name": "Note",
             "path": "Note"
-        },
-        {
-            "name": "Git",
-            "path": "Git"
         },
         {
             "name": "MarkDown",
             "path": "MarkDown"
         },
         {
+            "name": "C++",
+            "path": "C++"
+        },
+        {
+            "name": "Git",
+            "path": "Git"
+        },
+        {
             "name": "Python",
             "path": "Python"
+        },
+        {
+            "name": "Java",
+            "path": "Java"
         }
     ],
     "settings": {
