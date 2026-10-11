@@ -29,3 +29,6 @@ Given English is not my first language, I will write in Chinese. Maybe I will tr
 想做游戏
 `2026-09-30`
 试图在鸿蒙系统上搓一个手柄，祝我成功
+`2026-10-11`
+手柄的事早就放弃了，当时发现了[魔控](https://www.monect.com/ "进入魔控官网")，可以极方便的把手机变成Xbox手柄
+月考考的差劲
